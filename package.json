@@ -1,8 +1,8 @@
 {
   "scripts": {
     "dev": "cd client && npm run dev",
-    "build": "cd client && npm run build",
-    "start": "cd client && npm run start"
+    "build": "cd client && npm run buildClient",
+    "start": "cd client && npm run startClient"
   },
   "name": "hardhat-project",
   "dependencies": {
